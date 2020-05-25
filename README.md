@@ -1,4 +1,4 @@
-# Springboard-Capstone-2: Mortgage Loan Type Prediction
+# Springboard Capstone Project 2: Mortgage Loan Type Predictor
 
 
 There are many variables that go into determining whether someone will be approved or denied a home loan. Different lenders offer different programs, and a consumer may qualify for one or more programs based on their financial profile. While we cannot assume that historical data supports which program is the best option for a client, we can use it to predict which program will likely end up being the program they use to purchase or refinance a home. For a system which shows a consumer all loan options they may qualify for based on initial information we gather about them, it could cut down on time spent sifting through loan programs if we could predict which loan program is the most likely option, and present that to the consumer while sifting through the rest of the options to present. 
